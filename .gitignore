@@ -4,3 +4,5 @@
 # Datasets to be downloaded
 open-data-sb/
 wyscout-data/
+
+.DS_Store
